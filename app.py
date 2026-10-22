@@ -1,4 +1,3 @@
-```python
 import io
 import json
 
@@ -320,4 +319,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
